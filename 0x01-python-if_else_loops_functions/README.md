@@ -103,4 +103,4 @@ What I learned from this project:
 ---
 
 ## Author
-* **Estephania Calvo Carvajal** - [EstephaniaCalvoC](https://github.com/EstephaniaCalvoC)
+* **Victor Agbamoro** - [victoragbamoro](https://github.com/victoragbamoro)
